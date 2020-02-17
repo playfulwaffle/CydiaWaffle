@@ -12,7 +12,7 @@ Description: iPad like dock for iPhone!
 Author: Kiran Patil <patilkiran08@gmail.com>
 Name: FloatingDock
 
-Package: com.CydiaWaffle.App Admin
+Package: com.CydiaWaffle.AppAdmin
 Version: 1.0r-61
 Architecture: iphoneos-arm
 Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
