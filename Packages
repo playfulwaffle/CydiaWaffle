@@ -11,3 +11,17 @@ Section: tweaks
 Description: iPad like dock for iPhone!
 Author: Kiran Patil <patilkiran08@gmail.com>
 Name: FloatingDock
+
+Package: com.playful_waffle.App Admin
+Version: 1.0r-61
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /appadmin_1.0r-61.deb
+Size: 623650
+MD5sum: 615E1E7A713C94D74EC9FAD6AAAFDF27
+SHA1: 11B59AA8DC2F8602D388676A69D75D8C8F9BFC3A
+SHA256: D8E44284C4EEDB4484C7E9BCA32D261E37B8FAB5E093661C82B7CF071754F1A7
+Section: tweaks
+Description: iPad like dock for iPhone!
+Author: UnlimApps Inc. <support@unlimapps.com>
+Name: App Admin
