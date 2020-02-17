@@ -67,4 +67,18 @@ Section: Tweaks
 Description: Graviboard alternative
 Author: julioverne <julioverne@me.com>
 Name: Gravity
+
+Package: com.CydiaWaffle.bolders
+Version: 1.2.2-2
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /com.julioverne.gravity_0.6_iphoneos-arm.deb
+Size: 159466
+MD5sum: F44A4F549C31C5B4F8A6C20DE8F49190
+SHA1: 4A373316E50C4CB8F85137B8208E6C3556DF6A25
+SHA256: 0A8215038F48D7F9C6717FFD9EBDBA4AB2B469FA1892051D72FF99F867A08AED
+Section: Tweaks
+Description: Bigger bolder folders
+Author: candoizo <andreasmgott@gmail.com>
+Name: Bolders
  
