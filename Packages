@@ -53,3 +53,17 @@ Section: Tweaks
 Description: iPad dock power, for all !
 Author: SynnyG <synnyg.devjb@gmail.com>
 Name: FloatyDock
+
+Package: com.CydiaWaffle.gravity
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /com.julioverne.gravity_0.6_iphoneos-arm.deb
+Size: 159466
+MD5sum: 85210DAF871E98DD41898F8F844BD036
+SHA1: 38538B6270934CCD8BED612B35A5B418A66BA4D2
+SHA256: 6C169CDE642E61F135B7EDB02D7D32D75D72A2D4248F99C33D17A6174C6C61A5
+Section: Tweaks
+Description: Graviboard alternative
+Author: julioverne <julioverne@me.com>
+Name: Gravity
