@@ -1,0 +1,13 @@
+Package: com.playful_waffle.FloatingDock
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /floatingdock_1.5.deb
+Size: 32170
+MD5sum: DBCCD8C18859B4F5C444B66F111F9C3D
+SHA1: 3079A8D274593B772A6F26F04354FDCF5512A06B
+SHA256: 12847FC1410E3EB98430877D3F7F095EAFE37A2241834FBD878BD498E9FFA517
+Section: tweaks
+Description: iPad like dock for iPhone!
+Author: Kiran Patil <patilkiran08@gmail.com>
+Name: FloatingDock
