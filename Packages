@@ -25,3 +25,17 @@ Section: Tweaks
 Description: iPad like dock for iPhone!
 Author: UnlimApps Inc. <support@unlimapps.com>
 Name: App Admin
+
+Package: com.CydiaWaffle.SmallSiri
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /5cc8a96b6ee9f4001aa2016f.deb
+Size: 159466
+MD5sum: 1ED769C351ED776A0357D98951F34AC4
+SHA1: 762B013A702CD32EF7BDD801B00273B0F85AA0A7
+SHA256: C3BE148BB4DB81726F209F47599A18138128C0F4433525224BE10D565227D114
+Section: Tweaks
+Description: Make siri smaller and unobtrusive!
+Author: Muirey03 <cdyndahuse12@gmail.com>
+Name: SmallSiri
