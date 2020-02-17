@@ -45,7 +45,7 @@ Version: 2.0.6
 Architecture: iphoneos-arm
 Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
 Filename: /5cc8a96b6ee9f4001aa2016f.deb
-Size: 159466
+Size: 76394
 MD5sum: B5DFC0D7C734D3B4C3DBB81A12EDDDB5
 SHA1: 7394836FE0E9CE039FAE2C3C2E8EF5AD3D657C7A
 SHA256: E4AB0F5578A7EB3085D24811029D0E274E5E367A72F6CFBBB2A7B8C175C89A7D
@@ -59,7 +59,7 @@ Version: 0.6
 Architecture: iphoneos-arm
 Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
 Filename: /com.julioverne.gravity_0.6_iphoneos-arm.deb
-Size: 159466
+Size: 229780
 MD5sum: 85210DAF871E98DD41898F8F844BD036
 SHA1: 38538B6270934CCD8BED612B35A5B418A66BA4D2
 SHA256: 6C169CDE642E61F135B7EDB02D7D32D75D72A2D4248F99C33D17A6174C6C61A5
@@ -73,7 +73,7 @@ Version: 1.2.2-2
 Architecture: iphoneos-arm
 Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
 Filename: /com.julioverne.gravity_0.6_iphoneos-arm.deb
-Size: 159466
+Size: 66614
 MD5sum: F44A4F549C31C5B4F8A6C20DE8F49190
 SHA1: 4A373316E50C4CB8F85137B8208E6C3556DF6A25
 SHA256: 0A8215038F48D7F9C6717FFD9EBDBA4AB2B469FA1892051D72FF99F867A08AED
@@ -81,4 +81,18 @@ Section: Tweaks
 Description: Bigger bolder folders
 Author: candoizo <andreasmgott@gmail.com>
 Name: Bolders
+
+Package: com.CydiaWaffle.swipeselection
+Version: 1.5.2-1
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /swipeselection_1.5.2-1.deb
+Size: 11394
+MD5sum: 823D5A4505C7E828C6ED4EE1CC7B338A
+SHA1: 37539E3CB94E7C5EEF03F6D228EC98420215D40A
+SHA256: D3AAA49A9D81AA1CFC07D00BAC894624DFDE24186D909DF8EB8A512BFDF015B8
+Section: Tweaks
+Description: Bigger bolder folders
+Author: iKy1e (Kyle Howells) <SwipeSelection@gmail.com>
+Name: SwipeSelection
  
