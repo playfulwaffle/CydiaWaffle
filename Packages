@@ -37,5 +37,19 @@ SHA1: 762B013A702CD32EF7BDD801B00273B0F85AA0A7
 SHA256: C3BE148BB4DB81726F209F47599A18138128C0F4433525224BE10D565227D114
 Section: Tweaks
 Description: Make siri smaller and unobtrusive!
-Author: Muirey03 <cdyndahuse12@gmail.com>
+Author: SynnyG <synnyg.devjb@gmail.com>
 Name: SmallSiri
+
+Package: com.CydiaWaffle.floatydock
+Version: 2.0.6
+Architecture: iphoneos-arm
+Maintainer: Playful_Waffle <cdyndahuse12@gmail.com>
+Filename: /5cc8a96b6ee9f4001aa2016f.deb
+Size: 159466
+MD5sum: B5DFC0D7C734D3B4C3DBB81A12EDDDB5
+SHA1: 7394836FE0E9CE039FAE2C3C2E8EF5AD3D657C7A
+SHA256: E4AB0F5578A7EB3085D24811029D0E274E5E367A72F6CFBBB2A7B8C175C89A7D
+Section: Tweaks
+Description: iPad dock power, for all !
+Author: SynnyG <synnyg.devjb@gmail.com>
+Name: FloatyDock
